@@ -15,7 +15,7 @@
 
 
 .header-animated {
-    padding-bottom: 3%;
+    padding-bottom: 1%;
     font-family: 'open sans';
     overflow: hidden; /* Ensures the content is not revealed until the animation */
     white-space: nowrap; /* Keeps the content on a single line */
@@ -83,4 +83,18 @@
 .bakery-text {
     padding-top: 7%;
 
+}
+
+.about-me{
+    display: flex;
+    flex-direction: row;
+}
+
+.headshot{
+    padding-left: 5vh;
+    max-width: 30vh;
+}
+
+.text-left{
+    text-align: left;
 }

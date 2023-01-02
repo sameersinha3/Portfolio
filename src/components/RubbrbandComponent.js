@@ -19,7 +19,7 @@ export default function BerkshireComponent() {
                     Figma
                   </h2>
                   <h1 className="title-font text-lg font-medium text-white mb-3">
-                    Prototype for Rubbrband
+                    Prorotype for Rubbrband
                   </h1>
                   <p className="leading-relaxed">
                     A group of students and I created a prototype for a startup, Rubbrband. This concept easily allows users to upload a dataset and choose an ML model, while all dependencies are handled for them.
