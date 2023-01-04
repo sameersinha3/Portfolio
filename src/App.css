@@ -92,7 +92,8 @@
 
 .headshot{
     padding-left: 5vh;
-    max-width: 30vh;
+    width: 220px;
+    height: 200px;
 }
 
 .text-left{
