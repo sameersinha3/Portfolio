@@ -22,7 +22,7 @@ export default function Contact() {
               is viewable above in my portfolio. Finally, class projects have allowed me to build various applications. I have taken coursework in Artificial Intelligence,
               Deep Learning, Full-Stack Engineering, User Interfaces and User Experiences, which focused heavily on front-end work, as well as the basic major requirements.
               I can build aesthetic front ends, complex backends with AI, and I can use my full stack knowledge to combine the two. To read
-              more about me, a copy of my resumé can be found <a href="https://drive.google.com/file/d/1J5NNUZD-UVMk7ie_dB6Yvms0qZnq6nkN/view?usp=sharing"><u>at this Google Drive Link.</u></a>
+              more about me, a copy of my resumé can be found <a href="https://drive.google.com/file/d/1h_GEi614MOAqNkIvORj_RWWIt0tzr1cJ/view?usp=sharing"><u>at this Google Drive Link.</u></a>
             </p>
             
           </div>
