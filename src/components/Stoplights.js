@@ -7,7 +7,7 @@ export default function StopLights() {
     return(
         <div className="sm:w-1/2 w-100 p-4">
             <a
-              href="https://github.com/funnybear681/ProjectStopLights">
+              href="https://devpost.com/software/project-stop-lights">
               <div className="flex relative">
                 <img
                   alt="gallery"
