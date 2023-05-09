@@ -1,6 +1,6 @@
 import React from "react";
 import AIComponent from "./AIComponent";
-import ReinforcementLearning from "./ReinforcementLearning";
+import Vendor from "./Vendor";
 import StopLights from "./Stoplights";
 import RubbrbandComponent from "./RubbrbandComponent";
 
