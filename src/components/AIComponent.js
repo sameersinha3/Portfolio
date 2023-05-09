@@ -36,8 +36,8 @@ export default function AIComponent() {
                   The Project
                 </b>
                 <div className="content">
-                  - Helped create the course website using React and Boostrap CSS
-                  - "Game of Thrones" theme voted on by class
+                  - Helped create the course website using React and Boostrap CSS <br>
+                  - "Game of Thrones" theme voted on by class <br>
                 </div>
               </div>
             </div>
