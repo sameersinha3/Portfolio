@@ -21,7 +21,7 @@ export default function Projects() {
         <div className="flex flex-wrap -m-4">
 
           <AIComponent></AIComponent>
-          <ReinforcementLearning></ReinforcementLearning>
+          <Vendor></Vendor>
           <StopLights></StopLights>
           <RubbrbandComponent></RubbrbandComponent>
 

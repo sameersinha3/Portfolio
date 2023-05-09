@@ -16,13 +16,13 @@ export default function Contact() {
               I am a junior at Brown University curently seeking internship and summer opportunities for Summer of 2023. Last summer, I
               interned at <a href="https://www.korewireless.com/"> <u>KORE Wireless</u></a>, where I used Python and NODE-Red to write
               automatic test scripts to run on individual devices to measure their functionality and performance, including testing latency, 
-              jitter, speed, SMS, etc. In fall of 2022, I was also a teaching assistant for Artificial Intelligence. I revised the Reinforcement Learning
+              jitter, speed, SMS, etc. In fall of 2022 also a teaching assistant for Artificial Intelligence. I revised the Reinforcement Learning
               project, which included re-writing the assignment handout and holding a gearup session for students. Additionally, I answered 100+ student
               questions throughout the year on EdStem, and held office hours for two hours per week. I also helped construct the course website, which
               is viewable above in my portfolio. Finally, class projects have allowed me to build various applications. I have taken coursework in Artificial Intelligence,
               Deep Learning, Full-Stack Engineering, User Interfaces and User Experiences, which focused heavily on front-end work, as well as the basic major requirements.
               I can build aesthetic front ends, complex backends with AI, and I can use my full stack knowledge to combine the two. To read
-              more about me, a copy of my resumé can be found <a href="https://drive.google.com/file/d/1h_GEi614MOAqNkIvORj_RWWIt0tzr1cJ/view?usp=sharing"><u>at this Google Drive Link.</u></a>
+              more about me, a copy of my resumé can be found <a href="https://drive.google.com/drive/my-drive"><u>at this Google Drive Link.</u></a>
             </p>
             
           </div>
