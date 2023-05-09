@@ -36,9 +36,9 @@ export default function Vendor() {
                   The Project
                 </b>
                 <div className="content">
-                  - Users can apply to be a vendor at an event after receiving approval from admin
-                  - Admins can create, read, update, delete applications using jQuery and MySQL
-                  - Frontend and backend both built in PHP executing MySQL commands
+                  - Users can apply to be a vendor at an event after receiving approval from admin <br>
+                  - Admins can create, read, update, delete applications using jQuery and MySQL <br>
+                  - Frontend and backend both built in PHP executing MySQL commands <br>
                 </div>
               </div>
             </div>
