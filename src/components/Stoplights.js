@@ -36,10 +36,10 @@ export default function StopLights() {
                   The Project
                 </b>
                 <div className="content">
-                  - Final Project for Deep Learning class
-                  - Trained crosswalk detection model using RCNN using synthetically created, annotated images
-                  - YoloV5 framework using Roboflow dataset trained using Jupyter notebook to detect cars
-                  - Combined models algorithmically to detect relative positions of cars and crosswalks over time to determine stops.
+                  - Final Project for Deep Learning class <br>
+                  - Trained crosswalk detection model using RCNN using synthetically created, annotated images <br>
+                  - YoloV5 framework using Roboflow dataset trained using Jupyter notebook to detect cars <br>
+                  - Combined models algorithmically to detect relative positions of cars and crosswalks over time to determine stops. <br>
                 </div>
               </div>
             </div>
