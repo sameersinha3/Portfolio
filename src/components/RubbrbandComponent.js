@@ -36,9 +36,9 @@ export default function BerkshireComponent() {
                   The Project
                 </b>
                 <div className="content">
-                  - Created Hi-Fi prototype for RubbrBand, a startup dedicated to easily resolving dependencies for training ML models.
-                  - Went through multiple rounds of peer feedback to create simpler design
-                  - Tested on UserTesting.com and received positive feedback
+                  - Created Hi-Fi prototype for RubbrBand, a startup dedicated to easily resolving dependencies for training ML models. <br>
+                  - Went through multiple rounds of peer feedback to create simpler design <br>
+                  - Tested on UserTesting.com and received positive feedback <br>
                 </div>
               </div>
             </div>
